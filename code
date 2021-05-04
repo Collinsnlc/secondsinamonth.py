@@ -14,4 +14,4 @@ secsinmonth= int(daysinmonth) * int(hours) * int(mins) * int(secs)
 
 
 print ("the number of seconds in " + month + " is")
-print (secsinmonth) Sent from my iPhone
+print (secsinmonth) 
