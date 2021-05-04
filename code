@@ -1,0 +1,17 @@
+print ("lets figure out how many seconds are in a month")
+
+month= input("what month will we figure?: ")
+
+print("got it we are doing " + month)
+
+daysinmonth= input("how many days are in " + month + "?: ")
+
+hours= int(24)
+mins= int(60)
+secs= int(60)
+
+secsinmonth= int(daysinmonth) * int(hours) * int(mins) * int(secs)
+
+
+print ("the number of seconds in " + month + " is")
+print (secsinmonth) Sent from my iPhone
